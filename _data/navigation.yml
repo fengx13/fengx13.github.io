@@ -20,8 +20,8 @@ main:
   - title: "Join Us"
     url: /joinus/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
   - title: "Personal"
     url: /personal/
