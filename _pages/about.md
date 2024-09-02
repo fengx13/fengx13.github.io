@@ -23,6 +23,9 @@ Recent News
 - [August 2024] I Joined the University of Minnesota as an Assistant Professor
 - [May 2024] I started to serve as an Associate Editor for [Journal of Medical Internet Research](https://www.jmir.org/)
 
-For more info
+
+For more info/collaboration, welcome to contact
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Address: 11-132 Phillips-Wangensteen Bldg., 516 Delaware Street SE, Minneapolis, MN 55455
+
+Email: <A href="mailto:xie00469@umn.edu ">xie00469@umn.edu</A>

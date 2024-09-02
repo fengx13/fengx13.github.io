@@ -5,54 +5,60 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my<a href="https://scholar.google.com/citations?user=MZigJDUAAAAJ&hl=en"> Google Scholar profile</a>
+You can also find my articles on my<a href="https://scholar.google.com/citations?user=_lCrZBkAAAAJ&hl=en"> Google Scholar profile</a>
 
-<font size="5"><b>2023</b></font>
--	Zhou, Z., Glanz, Z., Liu, M., Bian, J., Yin, R.\*, Gao, H.\* (2023). HSELDA: Heterogeneous Sub-Graph Learning for lncRNA-Disease Associations Prediction. 2023 IEEE International Conference on Bioinformatics and Biomedicine. (Accepted)
--	Wan, Z., Lin, Z., Rashida, S., Nga, S., Yin, R., Senthilnath, J., Kwoh*, C. (2023). PESI: Paratope-Epitope Set Interaction for SARS-CoV-2 Neutralization Prediction. 2023 IEEE International Conference on Bioinformatics and Biomedicine. (Accepted)
--	Ye, B., Li, J., Chen, X., Yin, C., Subramaniam, A., Zhang, X., Bian, J., Yin*, R. (2023). MTLNFM: Multi-task Learning to Predict Patient Clinical Outcomes with Neural Factorization Machine, 2023 AMIA Annual Symposium. (Accepted)
--	Ding, P., Zeng, M., Yin, R.* (2023). Editorial: Computational Methods to Analyze RNA Data for Human Diseases. Frontiers in Genetics.
--	Xu, J., Yin, R., Smith, G., DeKosky, S., & Bian, J. (2023). Identification of Outcome-Oriented Progression Subtypes from Mild Cognitive Impairment to Alzheimer’s Disease Using Electronic Health Records. AMIA 2023 Annual Symposium. (Accepted)
--	Yin, R., Luo, Z., Zhuang, P., Zeng, M., Li, M., Lin, Z., Kwoh, C. K. (2023). ViPal: a framework for virulence prediction of influenza viruses with prior viral knowledge using genomic sequences. Journal of Biomedical Informatics, 142, 104388.
--	Yin, R., Ye, B.,  Bian J. (2023). CLCAP: Contrastive Learning Improves Antigenicity Prediction for Influenza A Virus Using Convolutional Neural Networks. Methods
--	Ming, Y., Wang, W., Yin, R., et al. (2023). A review of the enzyme design in catalytic stability by artificial intelligence. Briefings in Bioinformatics
--	Lin, Z., Feng, L., Guo, X., Zhang, Y., Yin, R., Kwoh, C. K., Xu, C. (2023). Comet: Convolutional dimension interaction for collaborative filtering. ACM Transactions on Intelligent Systems and Technology, 14(4), 1-18.
+<font size="5"><b>2024</b></font>
+-	Yuan H*, Yu K*, Xie F*, Liu M, Sun S. Automated Machine Learning (AutoML) with Interpretation: A Systematic Review of Methodologies and Applications in Healthcare. Medicine Advances, In Press
+-	Yu JY, Kim D, Yoon S, Kim T, Heo S, Chang H, Han GS, Jeong KW, Park RW, Gwon JM, Xie F, Ong MEH, Ng YY, Joo HJ, Cha WC. Inter hospital external validation of interpretable machine learning based triage score for the emergency department using common data model. Sci Rep. 2024 Mar 20;14(1):6666. doi: 10.1038/s41598-024-54364-7. 
+-	Ghanem M, Espinosa C, Chung P, Reincke M, Harrison N, Phongpreecha T, Shome S, Saarunya G, Berson E, James T, Xie F, Shu CH, Hazra D, Mataraso S, Kim Y, Seong D, Chakraborty D, Studer M, Xue L, Marić I, Chang AL, Tjoa E, Gaudillière B, Tawfik VL, Mackey S, Aghaeepour N. Comprehensive overview of the anesthesiology research landscape: A machine Learning Analysis of 737 NIH-funded anesthesiology primary Investigator's publication trends. Heliyon. 2024 Apr 3;10(7):e29050. doi: 10.1016/j.heliyon.2024.e29050.
+-	Phongpreecha T, Mathi K, Cholerton B, Fox EJ, Sigal N, Espinosa C, Reincke M, Chung P, Hwang LJ, Gajera CR, Berson E, Perna A, Xie F, Shu CH, Hazra D, Channappa D, Dunn JE, Kipp LB, Poston KL, Montine KS, Maecker HT, Aghaeepour N, Montine TJ. Single-cell peripheral immunoprofiling of lewy body and Parkinson's disease in a multi-site cohort. Mol Neurodegener. 2024 Aug 1;19(1):59. doi: 10.1186/s13024-024-00748-2. 
 
-<font size="5"><b>2022</b></font>   
-- Li M, Zhao B, <strong>Yin R</strong>, et al. GraphLncLoc: long non-coding RNA subcellular localization prediction using graph convolutional networks based on sequence-to-graph transformation. Briefings in Bioinformatics (2022)
-- <strong>Yin R</strong>, Zhu X, Kwoh CK, et al. "A framework for predicting variable-length epitopes of human-adapted viruses using machine learning methods." Briefings in Bioinformatics (2022)
-- Zhang W, Wu P, <strong>Yin R</strong>, Sun M, Zhang R, Liao X, Lin Y, Lu H. Mendelian Randomization Analysis Suggests No Associations of Herpes Simplex Virus Infections With Multiple Sclerosis. Frontiers in neuroscience. 2022;16. <a href="https://www.frontiersin.org/articles/10.3389/fnins.2022.817067/full">(pdf)</a>
+<font size="5"><b>2023</b></font>   
+- Xie F, Ning Y,  Liu M, Li S, Saffari SE, Yuan H, Volovici V, Ting DSW, Goldstein BA, Ong MEH, Vaughan R, Chakraborty B, Liu N. A universal AutoScore framework to develop interpretable scoring systems for predicting common types of clinical outcomes. STAR Protocols.2023;4(2):102302. doi: https://doi.org/10.1016/j.xpro.2023.102302 With open-sourced software package https://cran.r-project.org/web/packages/AutoScore/index.html 
+
+- Yu JY, Heo S, Xie F, Liu N, Yoon SY, Ong MEH, Ng YY, et al. Development and Asian-wide validation of the Grade for Interpretable Field Triage (GIFT) for predicting mortality in pre-hospital patients using the Pan-Asian Trauma Outcomes Study (PATOS). The Lancet Regional Health - Western Pacific. 2023, 100733
+
+- Liu M, Li S, Yuan H, Ong MEH, Ning Y, Xie F, et al. Handling missing values in healthcare data: A systematic review of deep learning-based imputation techniques. Artificial Intelligence in Medicine. 2023. doi: https://doi.org/10.1016/j.artmed.2023.102587 
+
+- Li S, Liu P, Nascimento GG, Wang X, Leite FRM, Chakraborty B, Hong C, Ning Y, Xie F, Teo ZL et al: Federated and distributed learning applications for electronic health records and structured medical data: a scoping review. Journal of the American Medical Informatics Association. 2023:ocad170.
+
+- Li S, Ning Y, Ong MEH, Chakraborty B, Hong C, Xie F, Yuan H, Liu M, Buckland DM, Chen Y et al: FedScore: A privacy-preserving framework for federated scoring system development. Journal of Biomedical Informatics. 2023, 146:104485.
+
+
+<font size="5"><b>2022</b></font>
+- Xie F, Zhou J, Lee JW, Tan M, Li S, Rajnthern LS, Chee ML, Chakraborty B, Wong AI, Dagan A, Ong MEH, Gao F, Liu N. Benchmarking Risk Triage Models for Emergency Department with Large Public Electronic Health Records. Scientific Data. 2022; 9:658. https://www.nature.com/articles/s41597-022-01782-9 
+
+- Xie F, Liu N, Yan L, Ning Y, Lim KK, Gong C, Kwan YH, Ho AFW, Low LL, Chakraborty B, Ong MEH. Development and Validation of an Interpretable Machine Learning Scoring Tool for Estimating Time to Emergency Readmissions. EClinicalMedicine. 2022; 45:101315
+https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(22)00045-1/fulltext#%20 
+
+- Xie F*, Yuan H*, Ning Y, Ong MEH, Feng M, Hsu W, Chakraborty B, Liu N. Deep Learning for Temporal Data Representation in Electronic Health Records: A Systematic Review of Challenges and Methodologies. Journal of Biomedical Informatics. 2022; 126:103980. (https://doi.org/10.1016/j.jbi.2021.103980) 
+
+- Xie F, Ning Y, Yuan H, Goldstein BA, Ong MEH, Liu N, Chakraborty B: AutoScore-Survival: Developing interpretable machine learning-based time-to-event scores with right-censored survival data. Journal of Biomedical Informatics. 2022; 125:103959. (https://doi.org/10.1016/j.jbi.2021.103959) 
+
+- Liu N, Xie F, Siddiqui FJ, Ho AFW, Chakraborty B, Nadarajan GD, Tan KBK, Ong MEH. Leveraging Large-scale Electronic Health Records and Interpretable Machine Learning for Clinical Decision Making at the Emergency Department: Protocol for System Development and Validation. JMIR Research Protocols. 2022;11(3):e34201. doi: 10.2196/34201 
+
+- Yuan H, Xie F, Ong MEH, Ning Y, Chee ML, Saffari SE, Abdullah HR, Goldstein BA, Chakraborty B, Liu N. AutoScore-Imbalance: An Automated Machine Learning Tool to Handle Data Imbalance in Interpretable Clinical Score Development. Journal of Biomedical Informatics. 2022;129:104072. doi:10.1016/j.jbi.2022.104072
+
+- Ning Y, Li S, Ong MEH, Xie F, Chakraborty B, Goldstein BA, Ting DSW, Vaughan R, Liu N. A novel interpretable machine learning system to generate clinical risk scores: An application for predicting early mortality or unplanned readmission in a retrospective cohort study. PLOS Digit Health 1(6): e0000062. https://doi.org/10.1371/journal.pdig.0000062
+
+- Ang Y, Li S, Ong MEH, Xie F, Teo SH, Choong L, Koniman R, Chakraborty B, Ho AFW, Liu N. Development and validation of an interpretable clinical score for early identification of acute kidney injury at the emergency department. Scientific Reports. 2022;12(1):7111. doi:10.1038/s41598-022-11129-4
+
+- Saffari SE, Ning Y, Xie F, Chakraborty B, Volovici V, Vaughan R, Ong MEH, Liu N. AutoScore-Ordinal: An Interpretable Machine Learning Framework for Generating Scoring Models for Ordinal Outcomes. BMC Medical Research Methodology. 22, 286 (2022). https://doi.org/10.1186/s12874-022-01770-y
+
+- Yu JY, Xie F, Nan L, Yoon S, Ong MEH, Ng YY, Cha WC. An external validation study of the Score for Emergency Risk Prediction (SERP), an interpretable machine learning-based triage score for the emergency department. Scientific Report. 2022 Oct 19;12(1):17466. doi: 10.1038/s41598-022-22233-w.
+
+- Rajendram MF, Zarisfi F, Xie F, Shahidah N, Pek PP, Yeo JW, Tan BY, Ma M, Do Shin S, Tanaka H, Ong MEH, Liu N, Ho AFW. External validation of the Survival After ROSC in Cardiac Arrest (SARICA) score for predicting survival after return of spontaneous circulation using multinational pan-asian cohorts. Frontiers in Medicine. 2022 Sep 8;9:930226. doi: 10.3389/fmed.2022.930226. 
+
+
 
 <font size="5"><b>2021</b></font>
-- <strong>Yin R</strong>, Luo Z, Kwoh CK. Exploring the Lethality of Human-Adapted Coronavirus Through Alignment-Free Machine Learning Approaches Using Genomic Sequences. Current Genomics. 2021 Dec 1;22(8):583-95. <a href="https://www.biorxiv.org/content/10.1101/2020.07.15.176933v1.full.pdf">(pdf)</a>
-- Wu P, Du B, Wang B, <strong>Yin R</strong>, Lv X, Dai Y, Zhang W, Xia K. Joint Analysis of Genome-Wide Association Data Reveals No Genetic Correlations Between Low Back Pain and Neurodegenerative Diseases. Frontiers in genetics. 2021:1717. <a href="https://www.frontiersin.org/articles/10.3389/fgene.2021.744299/full">(pdf)</a>
-- <strong>Yin R</strong>, Luo Z, Zhuang P, Zhuoyi Lin, et al. VirPreNet: a weighted ensemble convolutional neural network for the virulence prediction of influenza a virus using all 8 segments[J]. Bioinformatics. <a href="https://drive.google.com/file/d/1aykYKyApKUB2nSQ-5F-n16EEUUluvewA/view?usp=sharing">(pdf)</a>
-- Lin Z, Feng L, <strong>Yin R</strong>, Xu C, Kwoh CK. GLIMG: Global and local item graphs for top-N recommender systems. Information Sciences. 2021 Nov 1;580:1-4. <a href="https://arxiv.org/pdf/2007.14018.pdf">(pdf)</a>
-- <strong>Yin R</strong>, Yin R, Thwin N N, Zhuang P, Zhuoyi Lin, et al. IAV-CNN: a 2D convolutional neural network model to predict antigenic variants of influenza A virus[J]. IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2021. <a href="https://www.biorxiv.org/content/10.1101/2020.07.15.204883v1.full.pdf">(pdf)</a>
-- Wu PF, Zhang X, Zhou P, <strong>Yin R</strong>, Zhou XT, Zhang W. Growth differentiation factor 15 is associated with Alzheimer's disease risk. Frontiers in Genetics. 2021 Aug 13:1500. <a href="https://www.frontiersin.org/articles/10.3389/fgene.2021.700371/full">(pdf)</a>
+- Xie F, Ong MEH, Liew JNMH, Tan KBK, Ho AFW, Nadarajan GD, Low LL, Kwan YH, Goldstein BA, Chakraborty B, and Liu N. Development and Assessment of an Interpretable Machine Learning Triage Tool for Estimating Mortality After Emergency Admissions. JAMA Network Open. 2021;4(8):e2118467. doi: 10.1001/jamanetworkopen.2021.18467 
 
+      Media Highlight: https://healthitanalytics.com/news/machine-learning-triage-tool-better-predicts-mortality-in-ed and https://specialty.mims.com/topic/new-tool-outdoes-existing-triage-scores-at-estimating-mortality-risk-in-ed
 
-<font size="5"><b>2020</b></font>
-- <strong>Yin R</strong>, Luusua E, Dabrowski J, et al. Tempel: Time-series Mutation Prediction of Influenza A Viruses via Attention-based Recurrent Neural Networks[J]. Bioinformatics, 2020. <a href="https://drive.google.com/file/d/1Gh179fn77z95QaKZxAB9EegKYgBCEMOI/view?usp=sharing">(pdf)</a>
-- Zhang Y, Long Y, <strong>Yin R</strong>, et al. DL-CRISPR: A Deep Learning Method for Off-Target Activity Prediction in CRISPR/Cas9 With Data Augmentation[J]. IEEE Access, 2020, 8: 76610-76617. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9076075">(pdf)</a>
-- <strong>Yin R</strong>, Zhang Y, Zhou X, et al. Time series computational prediction of vaccines for influenza A H3N2 with recurrent neural networks[J]. Journal of Bioinformatics and Computational Biology, 2020. <a href="https://drive.google.com/file/d/1J-GRWUcammurn0NZWtl5hZ0DFS1jeXC2/view?usp=sharing">(pdf)</a>
-- <strong>Yin R</strong>,, Zhou X, Rashid S, et al. HopPER: an adaptive model for probability estimation of influenza reassortment through host prediction[J]. BMC Medical Genomics, 2020, 13(1): 9. <a href="https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-019-0656-7">(pdf)</a>
+- Xie F, Chakraborty B, Ong MEH, Goldstein BA, Liu N. AutoScore: A Machine Learning–Based Automatic Clinical Score Generator and Its Application to Mortality Prediction Using Electronic Health Records. JMIR Med Inform. 2020;8(10):e21798. doi: 10.2196/21798 
 
-<font size="5"><b>2019</b></font>
-- Zhou X, <strong>Yin R</strong>, Zheng J, et al. An encoding scheme capturing generic priors and properties of amino acids improves protein classification[J]. IEEE Access, 2019, 7: 7348-7356. <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8594660">(pdf)</a>
-- <strong>Yin R</strong>, Chee Keong Kwoh, and Jie Zheng. Whole Genome Sequencing Analysis: Computational Pipelines and Workflows in Bioinformatics, Encyclopedia of Bioinformatics and Computational Biology, 176-183, 2019. <a href="https://drive.google.com/file/d/17rcMUkSofgoFGW3xtz6UOaqoDi3MXU07/view?usp=sharing">(pdf)</a>
+- Xie F, Liu N, Wu SX, Ang Y, Low LL, Ho AFW, Lam SSW, Matchar DB, Ong MEH, Chakraborty B. Novel Model for Predicting Inpatient Mortality After Emergency Admission to Hospital in Singapore: Retrospective Observational Study. BMJ Open. 2019;9:e031382. doi: 10.1136/bmjopen-2019-031382
 
-<font size="5"><b>2018</b></font>
-- <strong>Yin R</strong>, Tran V H, Zhou X, et al. Predicting antigenic variants of H1N1 influenza virus based on epidemics and pandemics using a stacking model[J]. PloS one, 2018, 13(12): e0207777. <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0207777&type=printable">(pdf)</a>
-- Zhou X, <strong>Yin R</strong>, Kwoh C K, et al. A context-free encoding scheme of protein sequences for predicting antigenicity of diverse influenza A viruses[J]. BMC genomics, 2018, 19(10): 936. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-018-5282-9">(pdf)</a>
-- <strong>Yin R</strong>, Zhou X, Zheng J, et al. Computational identification of physicochemical signatures for host tropism of influenza A virus[J]. Journal of bioinformatics and computational biology, 2018: 1840023- 1840023. <a href="https://drive.google.com/file/d/1IWHPJdqRLcJts6hhk5AoHVprtXtvghd-/view?usp=sharing">(pdf)</a>
-- Ding P, <strong>Yin R</strong>, Luo J, et al. Ensemble Prediction of Synergistic Drug Combinations Incorporating Biological, Chemical, Pharmacological and Network Knowledge[J]. IEEE journal of biomedical and health informatics, 2018. <a href="https://drive.google.com/file/d/1PRoRS9bG3GCTWEfiwV6cCiu-ue9clStU/view?usp=sharing">(pdf)</a>
-- <strong>Yin R</strong>, Tan J, Akhila D, et al. Inference of Sequence Homology by BLAST visualization of Influenza Genome set[C]//Proceedings of the 9th International Conference on Computational Systems-Biology and Bioinformatics. ACM, 2018: 5. <a href="https://drive.google.com/file/d/1ZDVAb8Sbh9RJzztc2JLeAQ9V_ZA7ugNP/view?usp=sharing">(pdf)</a>
+- Liu N, Guo D, Koh ZX, Ho AFW, Xie F, Tagami T, Sakamoto JT, Pek PP, Chakraborty B, Lim SH, Tan JWC, Ong MEH. Heart rate n-variability (HRnV) and its application to risk stratification of chest pain patients in the emergency department. BMC Cardiovasc Disorder. 2020;20(1):168. doi: 10.1186/s12872-020-01455-8
 
-<font size="5"><b>2017</b></font> 
-- Ivan F X, Zhou X, Deshpande A, <strong>Yin R</strong>, et al. Phylogenetic tree based method for uncovering co- mutational site-pairs in influenza viruses[C]//Proceedings of the 8th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics. 2017: 21-26. <a href="https://drive.google.com/file/d/1QFB7XJnoSvioAQd1zzhKG1oM2NhCmvjl/view?usp=sharing">(pdf)</a>
-- <strong>Yin R</strong>, Zhou X, Ivan F X, et al. Identification of Potential Critical Virulent Sites Based on Hemagglu- tinin of Influenza a Virus in Past Pandemic Strains[C]//Proceedings of the 6th International Conference on Bioinformatics and Biomedical Science. ACM, 2017: 30-36. (<strong>Best presentation</strong>) <a href="https://drive.google.com/file/d/1xcg31PhgY7DVH1FsRg3AX9uL2ySfUJ7p/view?usp=sharing">(pdf)</a>
-
-<font size="5"><b>Prior to 2016</b></font>
-- The device of matrix sedimentation, China, 2014
-- The device and method of Linear sweep polarographic wave model, China, 2013
