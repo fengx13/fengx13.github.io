@@ -12,16 +12,16 @@ I have multidisciplinary background in medical informatics, biology, health serv
 
 Research Interest
 ======
-o	Trustworthy machine learning methods to promote model transparency, fairness and reproducibility
-o	Secondary analysis of multimodal electronic health data, including EHR, clinical notes, and signal data.
-o	Risk stratification models for acute critical illness in clinical settings
-o	Biomedical informatics and clinical decision-making support system
+- Trustworthy machine learning methods to promote model transparency, fairness and reproducibility
+- Secondary analysis of multimodal electronic health data, including EHR, clinical notes, and signal data.
+- Risk stratification models for acute critical illness in clinical settings
+- Biomedical informatics and clinical decision-making support system
 
 
 Recent News
 ======
-o	[August 2024] I Joined the University of Minnesota as an Assistant Professor
-o	[May 2024] I started to serve as an Associate Editor for [Journal of Medical Internet Research](https://www.jmir.org/)
+- [August 2024] I Joined the University of Minnesota as an Assistant Professor
+- [May 2024] I started to serve as an Associate Editor for [Journal of Medical Internet Research](https://www.jmir.org/)
 
 For more info
 ------
