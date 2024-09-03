@@ -20,4 +20,4 @@ We have a few opportunities for PhD students (Fall 2025 or later) or Postdoc (An
 - Strong programming skills and substantial experience in data science, machine learning, and informatics. 
 - Demonstrated publication record, experience in teamwork, and strong communication skills in English.
 
-Interested individuals are encouraged to contact Dr. Feng Xie (<A href="mailto:xie00469@umn.edu">xie00469@umn.edu</A>) with your Curriculum Vitae and other supporting documents. Please use the email subject line "PhD/Postdoc Application" and highlight your motivation and any other relevant information in your email. While I will review each email thoroughly, please understand that I may not be able to respond to every inquiry.
+Interested individuals are encouraged to contact Dr. Feng Xie (<A href="mailto:xie00469@umn.edu">xie00469@umn.edu</A>) with your Curriculum Vitae and other supporting documents (if any). Please use the email subject line "PhD/Postdoc Application" and highlight your motivation and any other relevant information in your email. While I will review each email thoroughly, please understand that I may not be able to respond to every inquiry.
