@@ -7,14 +7,16 @@ author_profile: true
 
 You can also find my articles on my<a href="https://scholar.google.com/citations?user=_lCrZBkAAAAJ&hl=en"> Google Scholar profile</a>
 
-<font size="5"><b>2024</b></font>
--	Yuan H*, Yu K*, Xie F*, Liu M, Sun S. Automated Machine Learning (AutoML) with Interpretation: A Systematic Review of Methodologies and Applications in Healthcare. Medicine Advances, In Press
--	Yu JY, Kim D, Yoon S, Kim T, Heo S, Chang H, Han GS, Jeong KW, Park RW, Gwon JM, Xie F, Ong MEH, Ng YY, Joo HJ, Cha WC. Inter hospital external validation of interpretable machine learning based triage score for the emergency department using common data model. Sci Rep. 2024 Mar 20;14(1):6666. doi: 10.1038/s41598-024-54364-7. 
+-	Yuan H\*, Yu K\*, **Xie F**\*, Liu M, Sun S. Automated Machine Learning (AutoML) with Interpretation: A Systematic Review of Methodologies and Applications in Healthcare. Medicine Advances, In Press
+
+-	Yu JY, Kim D, Yoon S, Kim T, Heo S, Chang H, Han GS, Jeong KW, Park RW, Gwon JM, **Xie F**, Ong MEH, Ng YY, Joo HJ, Cha WC. Inter hospital external validation of interpretable machine learning based triage score for the emergency department using common data model. Sci Rep. 2024 Mar 20;14(1):6666. doi: 10.1038/s41598-024-54364-7.
+
 -	Ghanem M, Espinosa C, Chung P, Reincke M, Harrison N, Phongpreecha T, Shome S, Saarunya G, Berson E, James T, Xie F, Shu CH, Hazra D, Mataraso S, Kim Y, Seong D, Chakraborty D, Studer M, Xue L, Marić I, Chang AL, Tjoa E, Gaudillière B, Tawfik VL, Mackey S, Aghaeepour N. Comprehensive overview of the anesthesiology research landscape: A machine Learning Analysis of 737 NIH-funded anesthesiology primary Investigator's publication trends. Heliyon. 2024 Apr 3;10(7):e29050. doi: 10.1016/j.heliyon.2024.e29050.
+
 -	Phongpreecha T, Mathi K, Cholerton B, Fox EJ, Sigal N, Espinosa C, Reincke M, Chung P, Hwang LJ, Gajera CR, Berson E, Perna A, Xie F, Shu CH, Hazra D, Channappa D, Dunn JE, Kipp LB, Poston KL, Montine KS, Maecker HT, Aghaeepour N, Montine TJ. Single-cell peripheral immunoprofiling of lewy body and Parkinson's disease in a multi-site cohort. Mol Neurodegener. 2024 Aug 1;19(1):59. doi: 10.1186/s13024-024-00748-2. 
 
-<font size="5"><b>2023</b></font>   
-- Xie F, Ning Y,  Liu M, Li S, Saffari SE, Yuan H, Volovici V, Ting DSW, Goldstein BA, Ong MEH, Vaughan R, Chakraborty B, Liu N. A universal AutoScore framework to develop interpretable scoring systems for predicting common types of clinical outcomes. STAR Protocols.2023;4(2):102302. doi: https://doi.org/10.1016/j.xpro.2023.102302 With open-sourced software package https://cran.r-project.org/web/packages/AutoScore/index.html 
+- Xie F, Ning Y,  Liu M, Li S, Saffari SE, Yuan H, Volovici V, Ting DSW, Goldstein BA, Ong MEH, Vaughan R, Chakraborty B, Liu N. [A universal AutoScore framework to develop interpretable scoring systems for predicting common types of clinical outcomes](https://doi.org/10.1016/j.xpro.2023.102302). STAR Protocols.2023;4(2):102302.
+With open-sourced software package [https://cran.r-project.org/web/packages/AutoScore/index.html](https://cran.r-project.org/web/packages/AutoScore/index.html)
 
 - Yu JY, Heo S, Xie F, Liu N, Yoon SY, Ong MEH, Ng YY, et al. Development and Asian-wide validation of the Grade for Interpretable Field Triage (GIFT) for predicting mortality in pre-hospital patients using the Pan-Asian Trauma Outcomes Study (PATOS). The Lancet Regional Health - Western Pacific. 2023, 100733
 
