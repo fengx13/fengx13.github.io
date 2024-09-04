@@ -12,3 +12,4 @@ More about me:
 
 - My academic journey has taken me to three different countries across the world, enriching my experiences and adventures. I completed my BS degree in China, where I traveled extensively across the country for hiking and mountaineering. During my PhD in Singapore, I explored neighboring countries in tropical Southeast Asia to see volcanoes, rain forests and underwater world. In the United States, I have enjoyed visiting national parks and immersing myself in the wilderness.
 
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=80&t=n&d=8PlY_7aesNgD_BkoJYSaIC25wStG8FRgfaFYbLuCWls&co=ffffff&cmo=ffffff&cmn=ffffff&ct=ffffff'></script>
