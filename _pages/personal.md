@@ -5,7 +5,7 @@ permalink: /personal/
 author_profile: true
 ---
 
-## More about me
+<b>More about me</b>
 
 - My name in Chinese is 谢丰, and I was raised in Guilin, a picturesque city in Southern China renowned for its stunning landscapes, famously described as “桂林山水甲天下” (East or west, Guilin scenery is best).
 
