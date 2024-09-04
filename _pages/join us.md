@@ -5,8 +5,7 @@ permalink: /join us/
 author_profile: true
 ---
 
-We have a few opportunities for PhD students (Fall 2025 or later) or Postdoc (Anytime until filled) at the University of Minnesota. Our research is centered on the development and application of novel, trustworthy machine learning (ML) and artificial intelligence (AI) solutions to address significant healthcare challenges and emerging biomedical problems. Our team has extensive experience working with large-scale multimodal data—such as health records, clinical notes, medical signals, and multi-omics data—across various healthcare domains. 
-
+We have a few openings for PhD students (starting Fall 2025 or later) or postdoc (available immediately until filled) at the University of Minnesota. Our research is centered on the development and application of novel, trustworthy machine learning (ML) and artificial intelligence (AI) solutions to address significant healthcare challenges and emerging biomedical problems. Our team has extensive experience working with large-scale multimodal data—such as health records, clinical notes, medical signals, and multi-omics data—across various healthcare domains. 
 <br/>Current University of Minnesota students who are interested in our research are encouraged to reach out. Additionally, we welcome visiting students from other universities who are keen to collaborate on our projects.
 
 <b>Requirements for PhD candidates</b>
@@ -22,4 +21,4 @@ We have a few opportunities for PhD students (Fall 2025 or later) or Postdoc (An
 - Strong programming skills and substantial experience in data science, machine learning, and informatics. 
 - Demonstrated publication record, experience in teamwork, and strong communication skills in English.
 
-Interested individuals are encouraged to contact Dr. Feng Xie (<A href="mailto:xie00469@umn.edu">xie00469@umn.edu</A>) with your Curriculum Vitae and other supporting documents (if any). Please use the email subject line "PhD/Postdoc Application" and highlight your motivation and any other relevant information in your email. While I will review each email thoroughly, please understand that I may not be able to respond to every inquiry.
+Interested individuals are encouraged to contact Dr. Feng Xie (<A href="mailto:xie00469@umn.edu">xie00469@umn.edu</A>) with your Curriculum Vitae. Please highlight your motivation and any other relevant information in your email. While I will review each email thoroughly, please understand that I may not be able to respond to every inquiry.
