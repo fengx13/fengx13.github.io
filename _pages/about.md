@@ -31,5 +31,4 @@ Address: 11-132 Phillips-Wangensteen Bldg., 516 Delaware Street SE, Minneapolis,
 Email: <A href="mailto:xie00469@umn.edu ">xie00469@umn.edu</A>
 
 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=202&t=n&d=QRtCsK6td-hIcJop29aaYbkgGEDCSIbacnNTP4tyXUo&co=ffffff&cmo=ffffff&cmn=ffffff&ct=ffffff'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=70&t=n&d=QRtCsK6td-hIcJop29aaYbkgGEDCSIbacnNTP4tyXUo&co=ffffff&cmo=ffffff&cmn=ffffff&ct=ffffff'></script>
