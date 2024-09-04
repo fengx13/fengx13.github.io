@@ -32,4 +32,4 @@ Email: <A href="mailto:xie00469@umn.edu ">xie00469@umn.edu</A>
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=QRtCsK6td-hIcJop29aaYbkgGEDCSIbacnNTP4tyXUo&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=202&t=n&d=QRtCsK6td-hIcJop29aaYbkgGEDCSIbacnNTP4tyXUo&co=ffffff&cmo=ffffff&cmn=ffffff&ct=ffffff'></script>
