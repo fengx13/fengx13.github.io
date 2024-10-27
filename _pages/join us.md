@@ -5,8 +5,7 @@ permalink: /join us/
 author_profile: true
 ---
 
-We have openings for a PhD student (starting Fall 2025 or later) or postdoc (available immediately until filled) at the University of Minnesota. Our research is centered on the development and application of novel, trustworthy machine learning (ML) and artificial intelligence (AI) solutions to address significant healthcare challenges and emerging biomedical problems. You are expected to work with large-scale electronic health data including electronic health records, clinical notes, signals, or multi-omics data across various healthcare domains. 
-
+We have openings for a PhD student (starting Fall 2025 or later) or postdoc (available immediately until filled) at the University of Minnesota. Our research is centered on the development and application of novel, trustworthy machine learning (ML) and artificial intelligence (AI) solutions to address significant healthcare challenges and emerging biomedical problems. You will work with large-scale electronic health data including electronic health records, clinical notes, signals, or multi-omics data across various healthcare domains. 
 <br/>Current University of Minnesota students who are interested in our research are encouraged to reach out. Additionally, we welcome visiting students from other universities who are keen to collaborate on our projects.
 
 <b>Requirements for PhD candidates</b>
