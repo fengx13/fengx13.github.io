@@ -13,7 +13,6 @@ More about me:
 <img src='/images/3.jpg'>
 
 - My academic journey has taken me to three different countries across the world, enriching my experiences and adventures. I completed my BS degree in China, where I traveled extensively across the country for hiking and mountaineering. During my PhD in Singapore, I explored neighboring countries in tropical Southeast Asia to see [volcanoes](https://fengx13.github.io/images/more_images/volcano.jpg), [rain forests](https://fengx13.github.io/images/more_images/rainforest.jpg), and the underwater world. This is my [favorite cycling route](https://fengx13.github.io/images/more_images/bestcycle.jpg) and I'm also a [marathon runner](https://fengx13.github.io/images/more_images/singaporerun.jpg) in Singapore. In the United States, I have enjoyed visiting national parks and immersing myself in the wilderness.
-<img src='/images/7.jpg'>
 <img src='/images/6.jpg'>
 <img src='/images/8.jpg'>
 
