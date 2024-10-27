@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my<a href="https://scholar.google.com/citations?user=_lCrZBkAAAAJ&hl=en"> Google Scholar profile</a>
+You can also find my full publication list on my<a href="https://scholar.google.com/citations?user=_lCrZBkAAAAJ&hl=en"> Google Scholar profile</a>
 
 -	Yuan H\*, Yu K\*, **Xie F**\*, Liu M, Sun S. Automated Machine Learning (AutoML) with Interpretation: A Systematic Review of Methodologies and Applications in Healthcare. Medicine Advances, In Press
 
