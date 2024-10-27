@@ -22,7 +22,7 @@ We have openings for a PhD student (starting Fall 2025 or later) or postdoc (ava
 - Strong programming skills and substantial experience in data science, and informatics in healthcare-related topics.
 - Demonstrated publication record, experience in teamwork, and strong communication skills in English.
 
-Interested individuals are encouraged to contact Dr. Feng Xie (<A href="mailto:xie00469@umn.edu">xie00469@umn.edu</A>) with your Curriculum Vitae. Please highlight your motivation and any other relevant information in your email. While I will review each email thoroughly, please understand that I may not be able to respond to every inquiry.
+If you are interested in any position (Postdoc, PhD, Research Assistant, etc) with us, [please fill out this form](https://forms.gle/LP9upZyDBFP676jG9). Any questions can be sent to Dr. Feng Xie (<A href="mailto:xie00469@umn.edu">xie00469@umn.edu</A>). Please note that the review process may take time. While each submission will be reviewed thoroughly, please understand that I may not be able to respond to every submission.
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=70&t=n&d=8tuUaROnSMxIFafrtIJBjLZv4TtqdawyP5VXFr4GYB4&co=ffffff&cmo=ffffff&cmn=ffffff&ct=ffffff'></script>
