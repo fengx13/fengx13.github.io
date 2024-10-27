@@ -59,3 +59,6 @@ Media Highlight: [https://healthitanalytics.com/news/machine-learning-triage-too
 
 - **Xie F**, Liu N, Wu SX, Ang Y, Low LL, Ho AFW, Lam SSW, Matchar DB, Ong MEH, Chakraborty B. Novel Model for Predicting Inpatient Mortality After Emergency Admission to Hospital in Singapore: Retrospective Observational Study. BMJ Open. 2019;9:e031382. doi: 10.1136/bmjopen-2019-031382
 
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=SR9i0Uh9A6tIKzWKYt4g09fw9zgVyVWZDVnK6e4-1Wc&co=ffffff&cmo=ffffff&cmn=ffffff'></script>
+
