@@ -20,7 +20,7 @@ Research Interest
 
 Recent News
 ======
-- [November 2024] I will be making an oral presentation at [AMIA 2024 Annual Symposium](https://amia.org/education-events/amia-2024-annual-symposium) about using language models and nature language processing techniques for predicting neonatal diseases
+- [November 2024] I will be making an oral presentation at [AMIA 2024 Annual Symposium](https://amia.org/education-events/amia-2024-annual-symposium) about using language models and nature language processing techniques in maternal and child health research
 - [August 2024] I joined the University of Minnesota as an Assistant Professor
 - [May 2024] I started to serve as an Associate Editor for [Journal of Medical Internet Research](https://www.jmir.org/)
 
