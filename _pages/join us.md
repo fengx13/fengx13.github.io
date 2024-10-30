@@ -22,7 +22,7 @@ We have openings for a PhD student or postdoc (available immediately until fille
 - Demonstrated publication record, experience in teamwork, and strong communication skills in English.
 
 <b>Important Information</b>
-- **If you are interested in any position (Postdoc, PhD, Research Assistant, volunteers, etc) with us, [please fill out this form](https://forms.gle/LP9upZyDBFP676jG9).** 
+- **If you are interested in any position (Postdoc, PhD, Research Assistant, volunteer, etc) with us, [please fill out this form](https://forms.gle/LP9upZyDBFP676jG9).** 
 - Any questions can be sent to Dr. Feng Xie (<A href="mailto:xie00469@umn.edu">xie00469@umn.edu</A>). 
 - Please note that the review process may take time, and only shortlisted candidates will be contacted for further steps.
 
