@@ -28,7 +28,7 @@ With open-sourced software package [https://cran.r-project.org/web/packages/Auto
 
 - **Xie F**, Zhou J, Lee JW, Tan M, Li S, Rajnthern LS, Chee ML, Chakraborty B, Wong AI, Dagan A, Ong MEH, Gao F, Liu N. [Benchmarking Risk Triage Models for Emergency Department with Large Public Electronic Health Records](https://www.nature.com/articles/s41597-022-01782-9 ). Scientific Data. 2022; 9:658. https://www.nature.com/articles/s41597-022-01782-9 
 
-- **Xie F**, Liu N, Yan L, Ning Y, Lim KK, Gong C, Kwan YH, Ho AFW, Low LL, Chakraborty B, Ong MEH. [Development and Validation of an Interpretable Machine Learning Scoring Tool for Estimating Time to Emergency Readmissions](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(22)00045-1/fulltext#%20). EClinicalMedicine. 2022; 45:101315 (https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(22)00045-1/fulltext#%20) 
+- **Xie F**, Liu N, Yan L, Ning Y, Lim KK, Gong C, Kwan YH, Ho AFW, Low LL, Chakraborty B, Ong MEH. [Development and Validation of an Interpretable Machine Learning Scoring Tool for Estimating Time to Emergency Readmissions](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(22)00045-1/fulltext#%20). EClinicalMedicine. 2022; 45:101315 
 
 - **Xie F**, Yuan H, Ning Y, Ong MEH, Feng M, Hsu W, Chakraborty B, Liu N. [Deep Learning for Temporal Data Representation in Electronic Health Records: A Systematic Review of Challenges and Methodologies](https://doi.org/10.1016/j.jbi.2021.103980). Journal of Biomedical Informatics. 2022; 126:103980. (https://doi.org/10.1016/j.jbi.2021.103980) 
 
