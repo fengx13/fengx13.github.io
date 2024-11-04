@@ -12,10 +12,11 @@ My research integrates expertise from medical informatics, biology, health servi
 
 Research Interest
 ======
-- Trustworthy machine learning methods to promote model transparency, fairness, and reproducibility in medical applications
+- Trustworthy ML/AI methods for healthcare
+- Novel risk stratification/prediction methods
+- Emergency and critical care research
+- Maternal and child health research
 - Secondary analysis of multimodal electronic health data, including EHR, clinical notes, and signal data.
-- Risk stratification models for acute critical illness in clinical settings
-- Biomedical informatics and clinical decision-making support system
 
 
 Recent News
