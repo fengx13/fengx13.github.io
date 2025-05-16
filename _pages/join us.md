@@ -12,13 +12,15 @@ We have openings for a PhD student, postdoc, or Research Assistant (available im
 - Strong enthusiasm and commitment to tackling practical healthcare issues using data science techniques.
 - Undergraduate or Master students in related disciplines.  
 - Minimum language proficiency as required by the university (IELTS/TOEFL). 
-- Programming experience with Python/R 
+- Programming experience with Python/R
+- Preferred skillsets in deep learning, foundation models, NLP and language models
 - Research experience in data science, machine learning, or healthcare-related topics is preferred. Candidates with publications are preferred.  
 
 <b>Requirements for Postdocs</b>
 - Strong dedication to solving practical healthcare problems through advanced data science techniques.
 - Ph.D. degree in biomedical informatics,  biostatistics, data science, or related disciplines.  
 - Strong programming skills and substantial experience in data science, and informatics in healthcare-related topics.
+- Preferred skillsets in deep learning, foundation models， NLP and language models
 - Demonstrated publication record, experience in teamwork, and strong communication skills in English.
 
 <b>Important Information</b>
