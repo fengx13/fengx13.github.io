@@ -21,7 +21,7 @@ Research Interest
 
 Recent News
 ======
-- [May 2025] Our work on data-driven sepsis risk stratification models for emergency care has been selected for presentation at the [National Academy of Engineering Regional Meeting]([https://amia.org/education-events/amia-2024-annual-symposium](https://www.nae.edu/107202/RegionalMeetings) Congratulations to Yanwei and the team.
+- [May 2025] Our work on data-driven sepsis risk stratification models for emergency care has been selected for presentation at the [National Academy of Engineering Regional Meeting](https://www.nae.edu/107202/RegionalMeetings) Congratulations to Yanwei and the team.
 - [November 2024] I will be making an oral presentation at [AMIA 2024 Annual Symposium](https://amia.org/education-events/amia-2024-annual-symposium) about using language models in risk stratification for maternal and child health
 - [August 2024] I joined the University of Minnesota as an Assistant Professor
 - [May 2024] I started to serve as an **Associate Editor** for [Journal of Medical Internet Research](https://www.jmir.org/). If you would like to become a peer reviewer for JMIR, please sign up for your interest by [filling out this form](https://forms.gle/LMyCrvzVmQ1opSVZ6).
