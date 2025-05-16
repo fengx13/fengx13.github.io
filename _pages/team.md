@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-1. Yanwei Jin, Graduate student in biostatistics
+1. [Yanwei Jin](https://yanweijin.github.io/), Graduate student in biostatistics
 2. Yinzhao Wang, Graduate student in statistics
 3. Yanqing Kong, Graduate student in biostatistics
 4. Xinnie Mai, Graduate student in Data Science
