@@ -43,7 +43,7 @@ The lab is led by an **Assistant Professor at the University of Minnesota Medica
   Collaborate with a major academic medical center with access to **millions of patient records**, including structured and unstructured data across a wide range of diseases.
 
 - **Impactful Publications**:  
-  Founded less than a year ago, the lab already has several **student first-author manuscripts** in progress. We emphasize **high-quality, clinically relevant publications** over CS conference papers.
+  Founded less than a year ago, the lab already has several **student first-author manuscripts** in progress. We emphasize **high-quality, clinically relevant publications at high-impact journals** over CS conference papers.
 
 - **Strong Infrastructure**:  
   Well-established data pipelines, robust computing resources, and advanced tooling to support efficient, scalable research.
