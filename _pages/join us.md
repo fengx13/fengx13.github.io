@@ -33,7 +33,7 @@ The lab is led by an **Assistant Professor at the University of Minnesota Medica
 
 ### Internships
 - For motivated individuals who may lack extensive experience but are eager to learn
-- Interns may start with collaborative projects to build foundational skills
+- Interns may start with collaborative projects
 
 ---
 
