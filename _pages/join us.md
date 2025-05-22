@@ -29,7 +29,7 @@ The lab is led by an **Assistant Professor at the University of Minnesota Medica
   - **Foundation models**
   - **Clinical NLP & language models**
   - **Large-scale EHR or biomedical data**
-- 💡 *Exceptional RAs may be considered for direct PhD admission*
+- 💡 *Exceptional RAs may be considered for PhD admission, depending on qualifications and program availability *
 
 ### Internships
 - For motivated individuals who may lack extensive experience but are eager to learn
