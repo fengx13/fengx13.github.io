@@ -28,7 +28,7 @@ The lab is led by an **Assistant Professor at the University of Minnesota Medica
 
 ### Postdoctoral Fellows / Research Assistants (RA)
 - Strong programming skills in **Python**, **R**, or **SQL**
-- Practical experience with:
+- Strong research experience with:
   - **Deep learning**
   - **Foundation models**
   - **Clinical NLP & language models**
