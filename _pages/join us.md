@@ -5,6 +5,10 @@ permalink: /join us/
 author_profile: true
 ---
 
+Our research is centered on the development and application of novel, trustworthy machine learning (ML) and artificial intelligence (AI) solutions to address significant healthcare challenges and emerging biomedical problems. You will work with large-scale electronic health data including electronic health records, clinical notes, signals, or multi-omics data across various healthcare domains. 
+<br/>Current University of Minnesota students who are interested in our research are encouraged to reach out. Additionally, we welcome visiting students from other universities who are keen to collaborate on our projects onsite or remotely.
+
+
 ## 🔬 Research Focus  
 Our lab specializes in **Health Data Science** and **Medical Informatics**, with research areas including:
 
