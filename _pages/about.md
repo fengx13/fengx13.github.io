@@ -23,8 +23,9 @@ Research Interest
 
 Recent News
 ======
+- [May 2026] Our work has been accepted at the AMIA 2026 Annual Symposium for oral presentation
 - [January 2026] New Publication: We just published a [cover article in Lancet Digital Health](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(25)00108-6/fulltext) on leveraging unstructured neonatal clinical notes with novel language models to support early risk prediction and disease identification in real-world care settings
-- [November 2025] Our work has been presented at the AMIA 2025 Annual Symposium
+- [November 2025] Our work has been presented at the AMIA 2025 Annual Symposium (oral presentation)
 - [May 2025] Our work on data-driven sepsis risk stratification models for emergency care has been selected for presentation at the [National Academy of Engineering Regional Meeting](https://www.nae.edu/107202/RegionalMeetings) focused on Transforming Healthcare at the Intersection of AI and Medical Devices. Congratulations to Yanwei and the team.
 - [November 2024] I will be making an oral presentation at [AMIA 2024 Annual Symposium](https://amia.org/education-events/amia-2024-annual-symposium) about using language models in risk stratification for maternal and child health
 - [August 2024] I joined the University of Minnesota as an Assistant Professor
