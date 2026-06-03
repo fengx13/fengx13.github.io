@@ -10,7 +10,7 @@ I'm an Assistant Professor at the [Division of Computational Health Science](htt
 
 My research integrates expertise from medical informatics, biology, health services research, and biostatistics. I focus on developing innovative and trustworthy machine learning (ML) and artificial intelligence (AI) solutions, and applying them across various healthcare domains. My work involved leveraging large-scale multimodal data, including electronic health records (EHR), clinical notes, signals and multiomics data, to address significant healthcare challenges. I have also developed methodologies to enhance model interpretability, generalizability, and reproducibility, fostering trustworthiness in AI/ML applications within healthcare. 
 
-I also serve as an Associate Editor for [Journal of Medical Internet Research](https://www.jmir.org/) and on the Editorial Board for [Journal of Biomedical Informatics](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)
+I also serve as an Associate Editor for [Journal of Medical Internet Research](https://www.jmir.org/about-journal/editorial-board) and on the Editorial Board for [Journal of Biomedical Informatics](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics/about/editorial-board)
 
 Research Interest
 ======
@@ -28,7 +28,8 @@ Recent News
 - [May 2025] Our work on data-driven sepsis risk stratification models for emergency care has been selected for presentation at the [National Academy of Engineering Regional Meeting](https://www.nae.edu/107202/RegionalMeetings) focused on Transforming Healthcare at the Intersection of AI and Medical Devices. Congratulations to Yanwei and the team.
 - [November 2024] I will be making an oral presentation at [AMIA 2024 Annual Symposium](https://amia.org/education-events/amia-2024-annual-symposium) about using language models in risk stratification for maternal and child health
 - [August 2024] I joined the University of Minnesota as an Assistant Professor
-- [May 2024] I started to serve as an **Associate Editor** for [Journal of Medical Internet Research](https://www.jmir.org/). If you would like to become a peer reviewer for JMIR, please sign up for your interest by [filling out this form](https://forms.gle/LMyCrvzVmQ1opSVZ6).
+- [May 2024] I started to serve as an **Editor Board** member for [Journal of Biomedical Informatics](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics/about/editorial-board)
+- [May 2024] I started to serve as an **Associate Editor** for [Journal of Medical Internet Research](https://www.jmir.org/about-journal/editorial-board). If you would like to become a peer reviewer for JMIR, please sign up for your interest by [filling out this form](https://forms.gle/LMyCrvzVmQ1opSVZ6).
 
 
 For more info/collaboration, welcome to contact us
