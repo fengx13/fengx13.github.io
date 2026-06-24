@@ -14,6 +14,7 @@ author_profile: true
 7. Sheldon Huang, Undergraduate Research Assistant
 8. Yumeng Chen, Research Assistant
 9. Andrew Meyer, Medical Student
+10. Woochang Shin, Graduate student in data science 
 
 More to be updated.
 If you would like to join us, please refer to [this link](https://fengx13.github.io/join%20us/)
