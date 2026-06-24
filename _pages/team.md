@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 1. [Yanwei Jin](https://yanweijin.github.io/), Graduate student in biostatistics
-2. Xinnie Mai, Graduate student in data Science
+2. Xinnie Mai, Graduate student in data science
 3. Masha Volkova, Graduate student in data science
 4. Hema Poojitha Chandu, Graduate student in computer science
 5. Shaun Ting, Graduate student in data science
